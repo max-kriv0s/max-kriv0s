@@ -39,9 +39,3 @@ Backend Developer · Node.js / TypeScript · Go
 Смотри ниже ↓
 
 ---
-
-### 📊 Статистика
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=max-kriv0s&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=max-kriv0s&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
